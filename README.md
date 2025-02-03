@@ -4,11 +4,11 @@
 
 ## Academic Qualifications	
 
-| Education  | Percentage/GPA | School/University      |   Year        |
-|------------|----------------|------------------------|---------------|
-|  X - CBSE  |   92.8 %       |  Mangal Newton, Beawar |     2018      |
-| XII - CBSE |   94.2 %       |    BVB Vidhyasharam    |     2020      |
-| B.Com LLB  |   7.35         |    Nirma University    |  2021 - 2026  |
+| Education  | Percentage/GPA |        School/University          |     Year      |
+|------------|----------------|-----------------------------------|---------------|
+|  X - CBSE  |     92.8 %     |     Mangal Newton, Beawar         |     2018      |
+| XII - CBSE |     94.2 %     |    BVB Vidhyasharam, Jaipur       |     2020      |
+| B.Com LLB  |      7.35      |    Nirma University, Ahmedabad    |  2021 - 2026  |
 
 
 <!-- This is a comment and will not be visible in the rendered README.md 
